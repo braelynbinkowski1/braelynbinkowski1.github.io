@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: #6B7A8F;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2808,14 +2808,14 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #6B7A8F !important;
+						color: #ffffff !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #ffffff;
 							color: #F7C331 !important;
 						}
 
@@ -2826,7 +2826,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: #ffffff;
 		padding-right: 23em;
 	}
 

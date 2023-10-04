@@ -2808,14 +2808,14 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #ffffff !important;
+						color: #F7C331 !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
-							background: #ffffff;
+							background: #6B7A8F;
 							color: #F7C331 !important;
 						}
 
